@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.menu > li{
+    display: inline-flex;
+   
+}
+
+.container_main1{
+   
+    width: 70%;
+    margin: 0 auto;
+    /*margin-left: auto;
+    margin-right: auto;*/    
+    height: auto;
+    
+}
+
+.grade{
+    display: flex;
+    margin: 250px auto auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+
+    
+}
+    
+.bem_vindo {
+    padding-left:60px;
+    padding-top: 15px;
+    text-align: center;
+
+
+}
+
+.titulo{
+    font-size: 24px;
+} 
+
+.logo {
+    
+    width: 50px;
+    margin:0 7px;
+}
+
+.rodape {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.form-margin{
+    margin-top: 50px;
+}
